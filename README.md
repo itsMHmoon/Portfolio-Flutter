@@ -1,2 +1,3 @@
 # Profile-UI-Flutter
-A basic fluter project on a personal profile UI.
+
+An UI page of my personal app.
