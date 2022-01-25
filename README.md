@@ -1,3 +1,4 @@
-# Profile-UI-Flutter
+# Portfolio-UI-Flutter
+An UI design of my personal portfolio.
 
-An UI page of my personal app.
+## UI:
